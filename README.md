@@ -16,7 +16,7 @@ I'm an aspiring web developer on a journey to transform my passion into a career
 - **Frameworks & Libraries**: React, Flask, Tailwind CSS, Bootstrap
 - **Tools**: Git, VSCode, Google Cloud/API, OAuth 2.0, SQLite
 
-## Projects
+## Favorite Project
 
 ### Status Scout - Job Application Tracker
 A web application built with Flask, HTML, Tailwind CSS, and JavaScript to help users track and manage their job applications. This project showcases my ability to integrate various technologies and APIs to create a practical, user-friendly solution.
