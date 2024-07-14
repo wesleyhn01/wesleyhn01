@@ -6,11 +6,9 @@
 
 I'm an aspiring web developer on a journey to transform my passion into a career. While my formal education provides a strong foundation in Information Systems, I'm constantly expanding my skills through self-directed learning, online courses, and hands-on projects.
 
-🎓 **Education**: BS in Information Systems at Virginia Commonwealth University (Expected 2026)
-
-🌱 **Currently learning**: In-depth HTML/CSS, while planning to work with/brush up on JavaScript/TypeScript
-
-🔍 **Seeking**: Internship opportunities in web development to apply and expand my skills
+- 🎓 **Education**: BS in Information Systems at Virginia Commonwealth University (Expected 2026)
+- 🌱 **Currently learning**: In-depth HTML/CSS, while planning to work with/brush up on JavaScript/TypeScript
+- 🔍 **Seeking**: Internship opportunities in web development to apply and expand my skills
 
 ## Skills
 
