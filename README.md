@@ -36,6 +36,7 @@ I'm passionate about continuous learning and improving my coding skills. Here's 
 ## Connect with Me
 
 - LinkedIn: [linkedin.com/in/wesleynguyen](https://linkedin.com/in/wesleynguyen)
+- Website: https://www.wesleyhn.com/
 - Email: wesleyhn01@gmail.com
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about web development!
