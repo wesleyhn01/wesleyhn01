@@ -7,14 +7,15 @@
 I'm an aspiring web developer on a journey to transform my passion into a career. While my formal education provides a strong foundation in Information Systems, I'm constantly expanding my skills through self-directed learning, online courses, and hands-on projects.
 
 - 🎓 **Education**: BS in Information Systems at Virginia Commonwealth University (Expected 2026)
-- 🌱 **Currently learning**: In-depth HTML/CSS, while planning to work with/brush up on JavaScript/TypeScript
+- 🌱 **Currently learning**: Going more in-depth with TypeScript, while also picking up Java on the side
 - 🔍 **Seeking**: Internship opportunities in web development to apply and expand my skills
 
 ## Skills
 
-- **Languages**: Python, HTML/CSS, JavaScript/TypeScript, SQL
-- **Frameworks & Libraries**: React, Flask, Tailwind CSS, Bootstrap
-- **Tools**: Git, VSCode, Google Cloud/API, OAuth 2.0, SQLite
+- **Languages**: Python, JavaScript/TypeScript, HTML/CSS, SQL
+- **Frameworks: Svelte/SvelteKit, Next.js, Flask, NestJS, AngularJS
+- **Libraries: React, Tailwind, Bootstrap, jQuery, pandas, NumPy, Matplotlib
+- **Tools**: Git, Node, RESTful API, Docker, PostgreSQL, Selenium, Google Cloud, Google API
 
 ## Favorite Project
 
