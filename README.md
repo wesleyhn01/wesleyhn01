@@ -13,8 +13,8 @@ I'm an aspiring web developer on a journey to transform my passion into a career
 ## Skills
 
 - **Languages**: Python, JavaScript/TypeScript, HTML/CSS, SQL
-- **Frameworks: Svelte/SvelteKit, Next.js, Flask, NestJS, AngularJS
-- **Libraries: React, Tailwind, Bootstrap, jQuery, pandas, NumPy, Matplotlib
+- **Frameworks**: Svelte/SvelteKit, Next.js, Flask, NestJS, AngularJS
+- **Libraries**: React, Tailwind, Bootstrap, jQuery, pandas, NumPy, Matplotlib
 - **Tools**: Git, Node, RESTful API, Docker, PostgreSQL, Selenium, Google Cloud, Google API
 
 ## Favorite Project
