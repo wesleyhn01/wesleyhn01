@@ -12,10 +12,10 @@ I'm an aspiring web developer on a journey to transform my passion into a career
 
 ## Skills
 
-- **Languages**: Python, JavaScript/TypeScript, HTML/CSS, SQL
-- **Frameworks**: Svelte/SvelteKit, Next.js, Flask, NestJS, AngularJS
-- **Libraries**: React, Tailwind, Bootstrap, jQuery, pandas, NumPy, Matplotlib
-- **Tools**: Git, Node, RESTful API, Docker, PostgreSQL, Selenium, Google Cloud, Google API
+- **Languages**: Python, Java, JavaScript/TypeScript, HTML/CSS, SQL
+- **Frameworks**: Svelte/SvelteKit, Next.js, NestJS, AngularJS, FastAPI, Flask, Playwright
+- **Libraries**: React, SQLAlchemy, Tailwind, Bootstrap, jQuery, pandas, NumPy, Matplotlib, Scikit-learn, SMOTE
+- **Tools**: Git, Node.js, RESTful API, Docker, PostgreSQL, PG Admin 4, TablePlus, Selenium, Google Cloud, Google APIs, AWS
 
 ## Favorite Project
 
